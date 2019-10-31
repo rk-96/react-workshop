@@ -39,8 +39,8 @@
   ],
   "orders": [
     {
-      "orderedDate": "2019-09-22T17:05:59.262Z",
-      "totalPrice": 420,
+      "orderedDate": "2019-10-31T07:19:39.480Z",
+      "totalPrice": 570,
       "orders": [
         {
           "product": {
@@ -49,14 +49,21 @@
             "unitPrice": "140",
             "thumbnail": "/images/product/4.jpg"
           },
-          "quantity": 2
-        },
+          "quantity": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "orderedDate": "2019-10-31T07:20:02.149Z",
+      "totalPrice": 140,
+      "orders": [
         {
           "product": {
-            "productId": 6,
-            "productName": "กาแฟ เฮลตี้ฟู้ด",
+            "productId": 4,
+            "productName": "เฟรนฟราย",
             "unitPrice": "140",
-            "thumbnail": "/images/product/6.jpg"
+            "thumbnail": "/images/product/4.jpg"
           },
           "quantity": 1
         }
@@ -64,17 +71,17 @@
       "id": 2
     },
     {
-      "orderedDate": "2019-09-22T17:06:31.249Z",
-      "totalPrice": 700,
+      "orderedDate": "2019-10-31T07:31:55.030Z",
+      "totalPrice": 890,
       "orders": [
         {
           "product": {
-            "productId": 4,
-            "productName": "เฟรนฟราย",
-            "unitPrice": "140",
-            "thumbnail": "/images/product/4.jpg"
+            "productId": 3,
+            "productName": "บิงซู",
+            "unitPrice": "200",
+            "thumbnail": "/images/product/3.jpg"
           },
-          "quantity": 5
+          "quantity": 6
         }
       ],
       "id": 3
